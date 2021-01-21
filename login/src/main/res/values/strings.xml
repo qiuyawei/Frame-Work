@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_title">登录页</string>
+    <string name="login_account_hint">请输入账号</string>
+    <string name="login_pwd_hint">请输入密码</string>
+    <string name="login_login">登录</string>
+</resources>

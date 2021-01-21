@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--一般输入框的基本style-->
+    <style name="base_edit_text">
+        <item name="hintTextColor">@color/base_hint_color</item>
+        <item name="android:textSize">@dimen/base_normal_ts</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/base_btn_height</item>
+        <item name="android:layout_margin">@dimen/base_margin</item>
+    </style>
+    <!--一般输入框的基本style-->
+    <style name="base_btn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/base_btn_height</item>
+        <item name="android:textSize">@dimen/base_normal_ts</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_margin">@dimen/base_margin</item>
+        <item name="android:background">@drawable/base_btn_selector</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

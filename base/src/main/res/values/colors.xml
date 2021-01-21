@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--肌色-->
+    <color name="base_primary">#fedcbd</color>
+    <color name="base_hint_color">#999d9c</color>
+    <!--柑子色-->
+    <color name="base_btn_normal_color">#faa755</color>
+    <!--蜜柑色-->
+    <color name="base_btn_pressed_color">#f58220</color>
+</resources>
